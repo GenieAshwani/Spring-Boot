@@ -1,0 +1,33 @@
+
+H.W
+
+1. upadte record
+2. @Modifiying
+3. @Transactional  - ACID
+
+
+interview -- 1:30 min
+introduction
+project
+coding -- notepad  singleton - condition(break) 7 method
+,leetcode-medium
+Spring boot -:
+Question: aap ne ek jar add ki maven and us jar me ek class ha
+StudentRecord ---- class ab is class ki tumhe spring bean banana ha
+to batao kaise banaoge?
+
+@Cofiguration
+class A
+{
+@Bean
+pubic StudentRecord getObject()
+{
+ return new StudentRecord()
+ }
+}
+
+kafka
+docker
+cahce algo
+distributed system
+microservices
